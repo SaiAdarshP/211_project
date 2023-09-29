@@ -2,6 +2,11 @@
 
 ```
 python -m venv venv
+```
+```
 venv\Scripts\activate
-pip install numpy scipy scikit-learn matplotlib tqdm```
+```
+```
+pip install numpy scipy scikit-learn matplotlib tqdm
+```
  
